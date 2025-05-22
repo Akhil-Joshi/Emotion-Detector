@@ -48,4 +48,4 @@ COPY . .
 EXPOSE 8000
 
 # Run the application.
-CMD streamlit run app.py
+CMD streamlit run  app.py

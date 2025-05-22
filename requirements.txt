@@ -6,4 +6,6 @@ plotly
 scikit-learn
 joblib
 streamlit
+streamlit-plotly-events
+
 
